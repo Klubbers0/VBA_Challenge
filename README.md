@@ -1,7 +1,7 @@
 # VBA_Challenge
 Overview of Project:This project is an analysis of returns for the entire stock market for years 2017 and 2018. 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Stock performance from 2017 to 2018 was as follows. Using the code https://github.com/Klubbers0/VBA_Challenge/blob/c883a5d69ae858ea9d08167817c0ad97812c353d/Resources/VBA_challenge_2017.PNG
+Stock performance from 2017 to 2018 was as follows. Using the code 
 
 
 
